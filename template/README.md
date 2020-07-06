@@ -61,3 +61,14 @@ Summarize your prior use of this activity in the classroom. Consider answering s
 *	How have you changed this activity since you first started using it? 
 *	What did students think about this activity? Did they find the activity helpful? Why or why not?
 *	Are there any risks or challenges that instructors should know before they decide to use this activity?
+
+## License
+
+All activities in this repository are made available under a Creative Commons Attribution license. This allows for the widest possible adoption and adaptation of RE learning activities, while ensuring that the activity's creator(s) will still receive credit for their work.
+
+You must include exactly one of the following license grants on your summary page. 
+
+![Creative Commons BY License logo](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). *Preferred unless you have a grant that requires a different license.*
+
+![Creative Commons BY License logo](https://i.creativecommons.org/l/by/3.0/88x31.png) This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/). *Some U.S. National Science Foundation grants, including the Improving Undergraduate STEM Education program, require this older license instead.* 
+
