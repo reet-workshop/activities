@@ -22,4 +22,4 @@ Each RE teaching activity has a separate directory in this repository, which inc
 
 ### 2020
 
-([2020-01](./2020/est-reqt-doc-size.md)) [Estimation Game: What is the Size of Requirements Documents in Industry?](./2020/est-reqt-doc-size.md) (Bernd Westphal, Albert-Ludwigs-Universit&auml;t Freiburg)
+([2020-01](./2020/01/)) [Estimation Game: What is the Size of Requirements Documents in Industry?](./2020/01/) (Bernd Westphal, Albert-Ludwigs-Universit&auml;t Freiburg)
