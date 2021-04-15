@@ -7,9 +7,9 @@ Jennifer Horkoff, Chalmers \| The University of Gothenburg, Gothenburg, Sweden j
 ## Files
 
 * [OpenRE 2021 paper](./OpenRE__Paper_Horkoff.pdf)
-* [Lectures](./Lectures)
-* [Exercises](./Exercises)
-* [Assignments and Cases](./Assignments_and_Cases)
+* [Lectures](https://github.com/reet-workshop/activities/tree/master/docs/2021/01/Assignments_and_Cases)
+* [Exercises](https://github.com/reet-workshop/activities/tree/master/docs/2021/01/Exercises)
+* [Assignments and Cases](https://github.com/reet-workshop/activities/tree/master/docs/2021/01/Assignments_and_Cases)
 
 ## Target Audience
 
