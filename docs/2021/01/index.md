@@ -2,7 +2,7 @@
 
 ## Author(s)
 
-Jennifer Horkoff, Chalmers | The University of Gothenburg, Gothenburg, Sweden jennifer.horkoff@gu.se
+Jennifer Horkoff, Chalmers \| The University of Gothenburg, Gothenburg, Sweden jennifer.horkoff@gu.se
 
 ## Target Audience
 
@@ -19,15 +19,17 @@ Jennifer Horkoff, Chalmers | The University of Gothenburg, Gothenburg, Sweden je
 
 ## Learning Goals
 
-Knowledge and understanding
+### Knowledge and understanding
 1.	describe the process of requirements elicitation, evaluation and prioritization, documentation, validation and development of software requirements,     
 2. state techniques to acquire and model user demands, 
 3. explain key techniques to account for usability in software products,
-Competence and skills
+
+### Competence and skills
 4. identify and specify requirements by means of, for instance, scenario-based techniques or goal-oriented techniques,
 5. apply techniques to identify personas, scenarios and user stories,
 6. design and implement graphical user interfaces according to usability principles,
-Judgement and approach
+
+### Judgement and approach
 7. choose an appropriate technique to evaluate the usability of a software product,
 8. choose and motivate appropriate methods for involving users in the design process.
 
