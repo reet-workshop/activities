@@ -27,6 +27,6 @@ Each RE teaching activity has a separate directory in this repository, which inc
 
 ### 2021
 
-([2021-01](./2021/01/index.md)) [Requirements Engineering Course Material for First-Year Software Engineering Students](./2021/01/index.md)) (Jennifer Horkoff, Chalmers and the University of Gothenburg)
+([2021-01](./2021/01/index.md)) [Requirements Engineering Course Material for First-Year Software Engineering Students](./2021/01/index.md) (Jennifer Horkoff, Chalmers and the University of Gothenburg)
 
-([2021-02](./2021/02/index.md)) [Requirements Engineering in Industry: Modular Foundational Online Training to Build Basic Practices](./2021/02/index.md)) (Sarah Gregory, Intel)
+([2021-02](./2021/02/index.md)) [Requirements Engineering in Industry: Modular Foundational Online Training to Build Basic Practices](./2021/02/index.md) (Sarah Gregory, Intel)
