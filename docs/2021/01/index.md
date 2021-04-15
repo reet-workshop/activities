@@ -4,6 +4,13 @@
 
 Jennifer Horkoff, Chalmers \| The University of Gothenburg, Gothenburg, Sweden jennifer.horkoff@gu.se
 
+## Files
+
+* [OpenRE 2021 paper](./OpenRE__Paper_Horkoff.pdf)
+* [Lectures](./Lectures)
+* [Exercises](./Exercises)
+* [Assignments and Cases](./Assignments_and_Cases)
+
 ## Target Audience
 
 * The target audience of the education is first-year software engineering students.
